@@ -1,0 +1,6 @@
+package: sfmblog.cn/wxappdoc
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.4.0
+- package: github.com/mattn/go-sqlite3
+  version: ^1.6.0

@@ -3,3 +3,4 @@ source
 *.docset
 .DS_Store
 dist
+vendor
